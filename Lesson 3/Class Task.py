@@ -11,3 +11,4 @@ for i in telebe.items():
         yeni_list.append(i)
 
 print(yeni_list)
+print(yeni_list)
