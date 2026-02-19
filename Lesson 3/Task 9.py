@@ -8,4 +8,5 @@ for word in text.split():
     else:
         using_words[word] += 1
 
+
 print(using_words)
